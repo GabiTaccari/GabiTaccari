@@ -1,7 +1,14 @@
-### Hi there 👋
+<div align="center" style="display: inline_block">
+  <img align="center" src="https://github.com/GabiTaccari/GabiTaccari/blob/main/head.png"><br>
+</div>
 
+<br> 
+<p align="center"><a href="https://github.com/GabiTaccari"><img width="80%" alt="Hello, I'm Gabi. I make lifes be easier with codes!" src="https://raw.githubusercontent.com/GabiTaccari/GabiTaccari/main/presentation-header.png" /></a></p>
 
-<img src="https://raw.githubusercontent.com/GabiTaccari/GabiTaccari/main/hello.png/>
+<div align="center" style="display: inline_block">
+<a href="https://github.com/GabiTaccari"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=CA8789&center=true&width=435&lines=Always+learning+new+things;Full-stack+developer;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+</div>
+
 
 <!--
 **GabiTaccari/GabiTaccari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
