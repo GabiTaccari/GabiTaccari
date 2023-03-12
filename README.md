@@ -3,7 +3,7 @@
 </div>
 
 <br> 
-<p align="center"><a href="https://github.com/GabiTaccari"><img width="80%" alt="Hello, I'm Gabi. I make lifes be easier with codes!" src="https://raw.githubusercontent.com/GabiTaccari/GabiTaccari/main/presentation-header.png" /></a></p>
+<p align="center"><a href="https://github.com/GabiTaccari"><img width="80%" alt="Hello, I'm Gabi. I make lifes be easier with codes!" src="https://raw.githubusercontent.com/GabiTaccari/GabiTaccari/main/header-presentation.png" /></a></p>
 
 <div align="center" style="display: inline_block">
 <a href="https://github.com/GabiTaccari"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=CA8789&center=true&width=435&lines=Always+learning+new+things;Full-stack+developer;5%2B+years+of+coding+experience" alt="Typing SVG" /></a>
