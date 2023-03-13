@@ -45,10 +45,33 @@
 
 ##
 
+### GitHub Profile Stats
+
+<br>
 <div style="display: inline_block"  align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiTaccari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabiTaccari&show_icons=true&theme=dracula" />
+&nbsp&nbsp
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiTaccari&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiTaccari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiTaccari&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabiTaccari&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
+<br>
+
+⚠️ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Gabriela Taccari's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=GabiTaccari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ 
+ 
+ <details> 
+  <summary><h2>📖 ServiceNow Badges (Now Learning)</h2></summary>
+
+  <p>I'm working on it, will be available soon. </p>
+</details>
